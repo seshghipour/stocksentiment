@@ -1,1 +1,3 @@
-# stocksentiment
+The purpose of this project is to create a basic architecture for scraping comments from the subreddit "wallstreetbets" - https://www.reddit.com/r/wallstreetbets/. This project utilizes data gathered from the pushshift.io project - https://pushshift.io/ which aggregates large volumes of data from reddit for public use.
+
+The motivation behind this project is to provide a foundation for further analysis such as analyzing trends between comment counts and stock price as well as comment sentiment and stock price. This motivation is built upon with the data generated from this architecture in my Tableau public profile -
