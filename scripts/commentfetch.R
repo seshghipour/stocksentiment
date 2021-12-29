@@ -6,7 +6,6 @@ require(tidytext)
 ## define name vectors and time period ##
 
 names <- c('Tesla','Gamestop','Moderna','DWAC')
-tickers <- c('TSLA','GME','MRNA','DWAC')
 ndays=1
 
 ## loop through our function and bind to matrix ##
