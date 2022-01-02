@@ -6,7 +6,7 @@ require(tidytext)
 ## define name vectors and time period ##
 
 names <- c('Tesla','Gamestop','Moderna','DWAC')
-ndays=1
+ndays=365
 
 ## loop through our function and bind to matrix ##
 
